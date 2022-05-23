@@ -16303,6 +16303,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\arkar\\Desktop\\Project\\Bakery\\Pages\\OrderSuccess.cshtml",
+      "TargetPath": "Pages\\OrderSuccess.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\arkar\\Desktop\\Project\\Bakery\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
