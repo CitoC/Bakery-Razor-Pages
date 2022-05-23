@@ -16333,6 +16333,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\arkar\\Desktop\\Project\\Bakery\\Pages\\Order.cshtml",
+      "TargetPath": "Pages\\Order.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\arkar\\Desktop\\Project\\Bakery\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
